@@ -1,0 +1,31 @@
+Bus No: 1Ac: trueTotal Capacity: 2
+Bus No: 2Ac: falseTotal Capacity: 50
+Bus No: 3Ac: trueTotal Capacity: 48
+Enter 1 to Book and 2 to exit
+1
+Enter name of the passenger:  
+Dhanya
+Enter bus no: 
+1
+Enter date dd-mm-yyyy
+22-02-2024
+Your booking is confirmed
+Enter 1 to Book and 2 to exit
+1
+Enter name of the passenger:  
+Ram
+Enter bus no: 
+1
+Enter date dd-mm-yyyy
+22-02-2024
+Your booking is confirmed
+Enter 1 to Book and 2 to exit
+1
+Enter name of the passenger:  
+Sita
+Enter bus no: 
+1
+Enter date dd-mm-yyyy
+22-02-2024
+Sorry. Bus is Full. Try another bus or date
+Enter 1 to Book and 2 to exit
